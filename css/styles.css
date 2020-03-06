@@ -1,0 +1,137 @@
+.top-container{
+  background-color: #fce2db;
+  margin:0;
+  position: relative;
+  padding-top: 100px;
+
+}
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+p{
+  line-height: 2;
+}
+h1{
+  margin:50px auto 0 auto;
+  font-family: 'Rouge Script', cursive;
+  font-size: 5.625rem;
+  color: #e4a3d4;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+   color: #c295d8;
+   font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#c295d8;
+  left: auto;
+}
+a{
+  color: #552244;
+  margin: auto 30px 50px 30px;
+  text-decoration: none;
+}
+a:hover{
+  color: #c295d8;
+}
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  margin:30px auto 30px auto;
+  text-align: left;
+
+}
+
+.middle-container{
+  margin-top: 100px;
+}
+.bottom-container{
+  background-color:#ad62aa;
+
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+
+}
+.code{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+
+}
+.hobbies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.girl{
+  width: 15%
+}
+
+.intro{
+  width:30%;
+  text-align: center;
+    margin:30px auto 30px auto;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#eab9c9;
+  border-width: 5px;
+  width: 5%;
+}
+.btn
+  {
+
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFDD ;
+  font-size: 16px;
+  box-shadow: 1px 1px 1px #E4A3D4;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #FFFDFA;
+  background: #E4A3D4;
+  background: linear-gradient(top,  #E4A3D4,  #C295D8);
+  background: -ms-linear-gradient(top,  #E4A3D4,  #C295D8);
+  background: -webkit-gradient(linear, left top, left bottom, from(#E4A3D4), to(#C295D8));
+  background: -moz-linear-gradient(top,  #E4A3D4,  #C295D8);
+
+}
+.btn:hover {
+  color: #3C2E42 !important;
+  background: #FFB6B9;
+  background: linear-gradient(top,  #FFB6B9,  #F6EEC7);
+  background: -ms-linear-gradient(top,  #FFB6B9,  #F6EEC7);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFB6B9), to(#F6EEC7));
+  background: -moz-linear-gradient(top,  #FFB6B9,  #F6EEC7);
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.credit{
+  margin-top: 50px;
+  font-size: 0.75em;
+}
+.end-para{
+  margin: 50px auto 50px auto;
+}
